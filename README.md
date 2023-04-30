@@ -1,4 +1,4 @@
-# FreenomBot
+# FreenomBot  
 The bot will auto-renew domain name
 ---
 # How to use it
